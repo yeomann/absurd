@@ -46,3 +46,6 @@ AbsurdJS was started as CSS preprocessor, but later it was expanded to a HTML pr
 
   - AbsurdJS fundamentals - [link](http://krasimirtsonev.com/blog/article/AbsurdJS-fundamentals)
   - Writing your CSS with JavaScript - [link](http://davidwalsh.name/write-css-javascript)
+
+
+Follow me at Twitter - [Danish Raza](https://twitter.com/danishraza19)
